@@ -1,20 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/image44.jpg" caption="" width="300px" height="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I'm currently a Ph.D student at Ajou University, South Korea. My research as a graduate student has been focused on analyzing and finding vulnerabilities of embedded device firmware. And I'm also interested in linux kernel, embedded system, reverse engineering, binary code anaylsis. I face the moment of frustration in many times when I'm trying to understand how things work, and I'm not such a fast learner, but I like to study and read materials such as technical reports, academic papers, books and tutorials, whatever that could help me better understand this field of my interest. Previously I received my B.S from Ajou University in 2015.
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
-
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+Email: huammmm1@gmail.com, yoiky12@ajou.ac.kr <br/>
+Kakao : huammmm1
