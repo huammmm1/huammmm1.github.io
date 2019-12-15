@@ -14,7 +14,7 @@ Email: huammmm1@gmail.com, yoiky12@ajou.ac.kr <br/>
 
 ## News
 
-I'm seeking for IT company where I can work as a Àü¹®¿¬±¸¿ä¿ø(Àü¹®¿¬). I will be ¹Ú»ç¼ö·á(course completion for ph.d) on February, 2020. please contact me through an email if any of you are interested.
+I'm seeking for IT company where I can work as a ì „ë¬¸ì—°êµ¬ìš”ì›(ì „ë¬¸ì—°). I will be ë°•ì‚¬ìˆ˜ë£Œ(course completion for ph.d) on February, 2020. please contact me through an email if any of you are interested.
 
 ## Last Modified
 
