@@ -1,3 +1,4 @@
+encoding: UTF-8
 title: JIMIN KIM
 description: jimin kim's website
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
@@ -55,5 +56,3 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
-
-encoding: UTF-8
