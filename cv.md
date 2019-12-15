@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Download [PDF version](http://huammmm1.github.io/images/CV(JIMIN KIM).pdf).
+Download [PDF version](https://github.com/huammmm1/huammmm1.github.io/images/CV(JIMIN KIM).pdf).
